@@ -1,10 +1,10 @@
-Ultra-Secure CyberGhost Client | IKEv2 support + dedicated IP is the best CyberGhost client with IKEv2 support and dedicated IP. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/cyberghost-wo36/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
